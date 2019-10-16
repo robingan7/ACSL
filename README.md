@@ -20,7 +20,7 @@ every two days for discussing algorithms.
 
 ### 2018-2019 Season
 
-#### Award\
+#### Award
 we lost 3 points due to a mistake in score counting.
 
 -   **Global
